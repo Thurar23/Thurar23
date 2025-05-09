@@ -1,6 +1,7 @@
 # Hey! It's nice to meet you!
 Welcome to my GitHub page!
-I'm a guy fascinated by programming from Brazil
+I'm a guy fascinated by programming from Brazil<br>
+Now i am 15 years old!
 
 ### programming languages that I know (until now):
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
